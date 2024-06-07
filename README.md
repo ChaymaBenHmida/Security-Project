@@ -16,7 +16,7 @@ A company wants to secure its network, which is described as follows:
 - A LAN network: includes all employee machines (internal users).
 - A DMZ network: includes various servers hosting the company's business applications.
 - A WAN network: includes all machines external to the company's network.
-- 
+
 To protect the above architecture, the network security administrator proposed to implement a firewall as the first step. The access rules are described as follows:
 Security Policy:
 1. Company employees are allowed to browse the web.
